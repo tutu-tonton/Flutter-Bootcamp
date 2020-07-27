@@ -9,3 +9,10 @@
 - アプリ作成方法
 - ウィジットを組み合わせる
 - Hello World出力
+
+### Scaffolding a Flutter App
+
+- Scaffold内に、appbar,color,imageなどのウィジットを配置
+- 公式ドキュメントの見方
+- 後からラップしたい場合。Centerでラップしたい場合など --- ウィジットにカーソル合わせてopt+Enter
+
