@@ -16,3 +16,8 @@
 - 公式ドキュメントの見方
 - 後からラップしたい場合。Centerでラップしたい場合など --- ウィジットにカーソル合わせてopt+Enter
 
+### Working with Assets in Flutter & the Pubspec file
+
+- ローカルに保存した画像を表示するには？
+- └ pubspec.yaml - assets に画像フォルダを登録する
+
